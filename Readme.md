@@ -31,12 +31,12 @@ Curious about how I decided to change career? [Brief Tale of a Life Change](http
 
 <div align="center">
     
-  [![projects](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#projects)
-  [![skills](https://img.shields.io/badge/-Skills-blue?style=for-the-badge)](#skills)
-  [![education](https://img.shields.io/badge/-Education-blue?style=for-the-badge)](#education)
-  [![experience](https://img.shields.io/badge/-Experience-blue?style=for-the-badge)](#experience)
-  [![volunteer-work](https://img.shields.io/badge/-Volunteering-blue?style=for-the-badge)](#volunteer-work)
-  [![interests](https://img.shields.io/badge/-Interests-blue?style=for-the-badge)](#interests)
+  [![projects](https://img.shields.io/badge/-Projects-009999?style=for-the-badge)](#projects)
+  [![skills](https://img.shields.io/badge/-Skills-009999?style=for-the-badge)](#skills)
+  [![education](https://img.shields.io/badge/-Education-009999?style=for-the-badge)](#education)
+  [![experience](https://img.shields.io/badge/-Experience-009999?style=for-the-badge)](#experience)
+  [![volunteer-work](https://img.shields.io/badge/-Volunteering-009999?style=for-the-badge)](#volunteer-work)
+  [![interests](https://img.shields.io/badge/-Interests-009999?style=for-the-badge)](#interests)
   
 </div>
 
