@@ -13,7 +13,7 @@
   [![LinkedIn Profile]](https://www.linkedin.com/in/jarasmar)
   [![Email]](mailto:jarasmar@gmail.com)
   [![CodeWars Profile]](https://www.codewars.com/users/Jarasmar)
-  [![Website]](https://jarasmar.wordpress.com/)
+  [![Art Portfolio]](https://jarasmar.wordpress.com/)
   
 </div>
 
