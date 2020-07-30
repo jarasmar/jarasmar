@@ -43,7 +43,7 @@ Curious about how I decided to change career? [Brief Tale of a Life Change](http
 ***
 
 ## PROJECTS
-For a complete list, see my [GitHub](https://github.com/jarasmar).
+For a complete list, see my [GitHub Repositories](https://github.com/jarasmar?tab=repositories).
 
 
 Project | Description | Tech Stack | Testing | Links
