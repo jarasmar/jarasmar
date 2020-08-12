@@ -56,7 +56,7 @@ Project | Description | Links | Tech Stack | Testing
 
 ### Currently working on:
 - [**Second Life**](https://github.com/jarasmar/Second_Life): App with a quick map view to give (and get) stuff for free in your area (Ruby on Rails, Google Maps API and Bootstrap)
-- [**To Do List**](https://github.com/jarasmar/To-Do-List): Building a small task management app (React.js)
+- [**El Campo de Olmo**](https://github.com/jarasmar/El_Campo_de_Olmo): Building an e-commerce website for an organic farm (React.js, Node.js, CSS)
 
 ***
 
