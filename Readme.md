@@ -48,14 +48,14 @@ For a complete list, see my [GitHub Repositories](https://github.com/jarasmar?ta
 
 Project | Description | Links | Tech Stack | Testing
 ------- | ----------- | ----- | ---------- | -------
-**[Second Life](https://github.com/jarasmar/Second_Life)** | (Work in Progress) An app based on Google Maps API where users can mark the exact location of any kind of goods left on the street for other people to collect | [![heroku](https://img.shields.io/badge/-DEMO-8000ff?style=for-the-badge)](https://second-life-app.herokuapp.com/)[![code](https://img.shields.io/badge/-Code-2eb82e?style=for-the-badge)](https://github.com/jarasmar/Second_Life) | Rails, javascript, Google Maps API, Bootstrap | Rspec
+**[Second Life](https://github.com/jarasmar/Second_Life)** | An app based on Google Maps API where users give (and get) stuff for free in their area | [![heroku](https://img.shields.io/badge/-DEMO-8000ff?style=for-the-badge)](https://second-life-app.herokuapp.com/)[![code](https://img.shields.io/badge/-Code-2eb82e?style=for-the-badge)](https://github.com/jarasmar/Second_Life) | Rails, javascript, Google Maps API, Bootstrap | Rspec
 **[Hackathon Game](https://github.com/jarasmar/hfh_corona_game)** | Run and jump game built for a 2.5 days hackathon | [![github](https://img.shields.io/badge/-DEMO-8000ff?style=for-the-badge)](https://jarasmar.github.io/hfh_corona_game/)[![code](https://img.shields.io/badge/-Code-2eb82e?style=for-the-badge)](https://github.com/jarasmar/hfh_corona_game) | javascript, p5.js, CSS |  | 
 **[Mix Tape](https://github.com/jarasmar/mix-tape)** | First time using React calling Rails for the backend and Spotify API. Combines selected users top tracks to generate a playlist that you can listen from the browser | [![heroku](https://img.shields.io/badge/-DEMO-8000ff?style=for-the-badge)](https://mix-tape-makers.herokuapp.com/signin)[![code](https://img.shields.io/badge/-Code-2eb82e?style=for-the-badge)](https://github.com/jarasmar/mix-tape) | Rails, React, Postgres, CSS | Rspec, Capybara 
 **[Acebook](https://github.com/jarasmar/acebook-theUndefinedMethod)** | First time using Rails, building a clone of Facebook | [![heroku](https://img.shields.io/badge/-DEMO-8000ff?style=for-the-badge)](https://the-undefined-method.herokuapp.com/users/sign_in)[![code](https://img.shields.io/badge/-Code-2eb82e?style=for-the-badge)](https://github.com/jarasmar/acebook-theUndefinedMethod) | Rails, Postgres, Devise, Bootstrap | Rspec, Capybara
 
 
 ### Currently working on:
-- [**Second Life**](https://github.com/jarasmar/Second_Life): App with a quick map view to give (and get) stuff for free in your area (Ruby on Rails, Google Maps API and Bootstrap)
+- [**My Portfolio**](https://github.com/jarasmar/My Portfolio): Personal Website with CSS Animations (HTML and CSS)
 - [**El Campo de Olmo**](https://github.com/jarasmar/El_Campo_de_Olmo): Building an e-commerce website for an organic farm (React.js, Node.js, CSS)
 
 ***
