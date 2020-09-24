@@ -55,7 +55,7 @@ Project | Description | Links | Tech Stack | Testing
 
 
 ### Currently working on:
-- [**My Portfolio**](https://github.com/jarasmar/My Portfolio): Personal Website with CSS Animations (HTML and CSS)
+- [**My_Portfolio**](https://github.com/jarasmar/My Portfolio): Personal Website with CSS Animations (HTML and CSS)
 - [**El Campo de Olmo**](https://github.com/jarasmar/El_Campo_de_Olmo): Building an e-commerce website for an organic farm (React.js, Node.js, CSS)
 
 ***
