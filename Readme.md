@@ -10,6 +10,7 @@
 
 <div align="center">
   
+  [![Portfolio]](https://jarasmar.github.io/My_Portfolio/)
   [![LinkedIn Profile]](https://www.linkedin.com/in/jarasmar)
   [![Email]](mailto:jarasmar@gmail.com)
   [![CodeWars Profile]](https://www.codewars.com/users/Jarasmar)
@@ -293,6 +294,7 @@ _Click on any of them to see some further details, anecdotes and adventures._
 
 <!-- Badge Links -->
 
+[portfolio]: https://img.shields.io/badge/-PORTFOLIO-blueviolet
 [linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
 [email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
 [codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
