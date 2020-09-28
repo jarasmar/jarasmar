@@ -56,7 +56,7 @@ Project | Description | Links | Tech Stack | Testing
 
 
 ### Currently working on:
-- [**My Portfolio**](https://github.com/jarasmar/My_Portfolio): Personal Website with CSS Animations (HTML and CSS)
+- [**Arcade**](https://github.com/jarasmar/Arcade): Website where a user can choose from a range of classic games and compete with others for high scores (React, Node.js, MongoDB, CSS)
 - [**El Campo de Olmo**](https://github.com/jarasmar/El_Campo_de_Olmo): Building an e-commerce website for an organic farm (React.js, Node.js, CSS)
 
 ***
