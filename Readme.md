@@ -32,7 +32,7 @@ Curious about how I decided to change career? [Brief Tale of a Life Change](http
 
 <div align="center">
   
-  [![jobs](https://img.shields.io/badge/-Jobs-009999?style=for-the-badge)](#jobs)  
+  [![jobs](https://img.shields.io/badge/-Jobs-009999?style=for-the-badge)](#work-experience)
   [![projects](https://img.shields.io/badge/-Projects-009999?style=for-the-badge)](#side-projects)
   [![skills](https://img.shields.io/badge/-Skills-009999?style=for-the-badge)](#skills)
   [![education](https://img.shields.io/badge/-Education-009999?style=for-the-badge)](#education)
@@ -44,7 +44,7 @@ Curious about how I decided to change career? [Brief Tale of a Life Change](http
 
 ***
 
-## JOBS
+## WORK EXPERIENCE
 
 ### Javascript Front End Developer at [Curtain Call](https://www.curtaincallonline.com/) (November 2020 to March 2020)
 
