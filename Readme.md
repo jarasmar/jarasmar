@@ -36,7 +36,7 @@ Curious about how I decided to change career? [Brief Tale of a Life Change](http
   [![projects](https://img.shields.io/badge/-Projects-009999?style=for-the-badge)](#side-projects)
   [![skills](https://img.shields.io/badge/-Skills-009999?style=for-the-badge)](#skills)
   [![education](https://img.shields.io/badge/-Education-009999?style=for-the-badge)](#education)
-  [![experience](https://img.shields.io/badge/-Previous&nbsp;Career-009999?style=for-the-badge)](#experience)
+  [![experience](https://img.shields.io/badge/-Previous&nbsp;Career-009999?style=for-the-badge)](#previous-career-experience)
   [![volunteer-work](https://img.shields.io/badge/-Volunteering-009999?style=for-the-badge)](#volunteer-work)
   [![interests](https://img.shields.io/badge/-Interests-009999?style=for-the-badge)](#interests)
   
