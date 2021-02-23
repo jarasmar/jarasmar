@@ -32,11 +32,11 @@ Curious about how I decided to change career? [Brief Tale of a Life Change](http
 
 <div align="center">
   
-  [![jobs](https://img.shields.io/badge/-Jobs-009999?style=for-the-badge)](#work-experience)
+  [![jobs](https://img.shields.io/badge/-Work&nbsp;Experience-009999?style=for-the-badge)](#work-experience)
   [![projects](https://img.shields.io/badge/-Projects-009999?style=for-the-badge)](#side-projects)
   [![skills](https://img.shields.io/badge/-Skills-009999?style=for-the-badge)](#skills)
   [![education](https://img.shields.io/badge/-Education-009999?style=for-the-badge)](#education)
-  [![experience](https://img.shields.io/badge/-Experience-009999?style=for-the-badge)](#experience)
+  [![experience](https://img.shields.io/badge/-Previous&nbsp;Career-009999?style=for-the-badge)](#experience)
   [![volunteer-work](https://img.shields.io/badge/-Volunteering-009999?style=for-the-badge)](#volunteer-work)
   [![interests](https://img.shields.io/badge/-Interests-009999?style=for-the-badge)](#interests)
   
@@ -171,8 +171,8 @@ Interested in this experience? I wrote daily notes and reflections of my journey
 
 ***
 
-## EXPERIENCE
-This is a list of the main fields I have worked on, with a summary of the skills I developed working in them. Welcome to my working life, from television sets to baking bread, with a fun stop as a Christmas elf in Finland. 
+## PREVIOUS CAREER EXPERIENCE
+This is a list of the main fields I have worked on before making my career change into Software Development, with a summary of the skills I developed working in them. Welcome to my working life, from television sets to baking bread, with a fun stop as a Christmas elf in Finland. 
 
 _Use the 'Check Full Experience' dropdown menus to see all the specific roles, places and dates of employment I had in each category._
 
