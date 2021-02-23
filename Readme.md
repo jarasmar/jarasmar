@@ -20,19 +20,20 @@
 
 ***
 
-I am a **Full-Stack Junior Developer** and life-long learner. I fluently speak three languages, worked on Makeup and Special Effects for Cinema and TV and have a degree in Visual Arts.
+I am a **Front-End Junior Developer** and life-long learner. I fluently speak three languages, worked on Makeup and Special Effects for Cinema and TV and have a degree in Visual Arts.
 
 I walked into programming in the most unexpected way and I couldn't be more grateful for it. I really enjoy the constant challenges and continuous learning process it involves.  
 
-Recently graduated from **Makers Academy**, I would love to find a job in an environment that supports my learning. I am currently based in London, willing to stay, but also open to new horizons. 
+Graduated from **Makers Academy** in Summer 2020, I would love to find a job in an environment that supports my learning. I am currently based in London, willing to stay, but also open to new horizons. 
 
 Curious about how I decided to change career? [Brief Tale of a Life Change](https://github.com/jarasmar/Learning_Journey_At_Makers/blob/master/README.md)
 
 ***
 
 <div align="center">
-    
-  [![projects](https://img.shields.io/badge/-Projects-009999?style=for-the-badge)](#projects)
+  
+  [![jobs](https://img.shields.io/badge/-Jobs-009999?style=for-the-badge)](#jobs)  
+  [![projects](https://img.shields.io/badge/-Projects-009999?style=for-the-badge)](#side-projects)
   [![skills](https://img.shields.io/badge/-Skills-009999?style=for-the-badge)](#skills)
   [![education](https://img.shields.io/badge/-Education-009999?style=for-the-badge)](#education)
   [![experience](https://img.shields.io/badge/-Experience-009999?style=for-the-badge)](#experience)
@@ -43,7 +44,19 @@ Curious about how I decided to change career? [Brief Tale of a Life Change](http
 
 ***
 
-## PROJECTS
+## JOBS
+
+### Javascript Front End Developer at [Curtain Call](https://www.curtaincallonline.com/) (November 2020 to March 2020)
+
+Multi-sided marketplace for entertainment and events - including TV, Film, Performance, Gaming and remote digital projects. We drive efficiencies by helping freelancers to find employment opportunities, and employers to streamline and diversify their recruitment process.
+
+- Tech Stack: Javascript, jQuery, CSS, Django, Python.
+- Small cross-functional team.
+- Prototypes and Mockup creation with Adobe XD.
+
+***
+
+## SIDE PROJECTS
 For a complete list, see my [GitHub Repositories](https://github.com/jarasmar?tab=repositories).
 
 
