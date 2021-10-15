@@ -46,7 +46,13 @@ Curious about how I decided to change career? [Brief Tale of a Life Change](http
 
 ## WORK EXPERIENCE
 
-### Javascript Front End Developer at [Curtain Call](https://www.curtaincallonline.com/) (November 2020 to March 2020)
+### Software Developer at [ON](madebyon.com) (September 2021 - Now)
+ON is a fast-moving, design-minded technology partner with rich cross-sector knowledge. We conceive and deliver compelling, high-impact digital experiences.
+
+Working across the full lifecycle of digital projects, we understand that every brief is unique. We take a seat at the table to help our clients thrive online.
+
+
+### Javascript Front End Developer at [Curtain Call](https://www.curtaincallonline.com/) (November 2020 - September 2021)
 
 Multi-sided marketplace for entertainment and events - including TV, Film, Performance, Gaming and remote digital projects. We drive efficiencies by helping freelancers to find employment opportunities, and employers to streamline and diversify their recruitment process.
 
