@@ -20,7 +20,7 @@
 
 ***
 
-I am a **Front-End Junior Developer** and life-long learner. I fluently speak three languages, worked on Makeup and Special Effects for Cinema and TV and have a degree in Visual Arts.
+I am a **Full-Stack Software Developer** and life-long learner. I fluently speak three languages, worked on Makeup and Special Effects for Cinema and TV and have a degree in Visual Arts.
 
 I walked into programming in the most unexpected way and I couldn't be more grateful for it. I really enjoy the constant challenges and continuous learning process it involves.  
 
